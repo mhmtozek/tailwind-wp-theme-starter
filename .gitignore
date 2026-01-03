@@ -1,0 +1,31 @@
+# =======================
+# Node / Dev Tools
+# =======================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build artifacts
+dist/css/*.map
+
+# Sass cache
+.sass-cache/
+*.css.map
+
+# =======================
+# OS / Editor
+# =======================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# =======================
+# Environment files
+# =======================
+.env
+.env.*
+

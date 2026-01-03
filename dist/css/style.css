@@ -1,0 +1,13 @@
+/*! tailwindcss v4.1.18 | MIT License | https://tailwindcss.com */
+body {
+  background-color: #f9fafb;
+}
+.btn {
+  padding: 0.75rem 1.25rem;
+  border-radius: 0.5rem;
+  font-weight: 600;
+  background-color: #cd1713;
+  color: white;
+}
+
+/*# sourceMappingURL=style.css.map */
