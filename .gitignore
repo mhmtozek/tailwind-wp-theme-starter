@@ -1,23 +1,4 @@
 # =======================
-# WordPress Core
-# =======================
-/wp-admin/
-/wp-includes/
-/wp-content/index.php
-/wp-content/languages
-/wp-content/plugins/index.php
-/wp-content/themes/index.php
-/index.php
-/license.txt
-/readme.html
-/wp-*.php
-wp-config.php
-/xmlrpc.php
-/wp-content/uploads/
-*.log
-/.htaccess
-
-# =======================
 # Node / Dev Tools
 # =======================
 node_modules/
