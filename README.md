@@ -1,2 +1,2 @@
-# tailwind-wp-theme-starter
-WordPress theme starter with Tailwind CSS, Sass compiler, and modern CSS workflow.
+# Tailwind WordPress Starter Theme
+An empty boilerplate for WordPress theme developers using Tailwind CSS v4 and Sass.
